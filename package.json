@@ -1,0 +1,23 @@
+{
+  "name": "electron-mindmap",
+  "version": "1.0.0",
+  "description": "Electron based mindmap application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "ccumgol",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^x.x.x",
+    "electron-builder": "^x.x.x"
+  },
+  "dependencies": {
+    "d3": "^x.x.x",
+    "electron-store": "^x.x.x",
+    "react": "^x.x.x",
+    "react-dom": "^x.x.x",
+    "socket.io": "^x.x.x"
+  }
+}
